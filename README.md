@@ -3,8 +3,8 @@
 ## Sofware Engeneer & Programming enjoyer
 
 ![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/3-stats.svg) ![](https://raw.githubusercontent.com/sadnessITS/sadnessITS/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sadnessITS)
